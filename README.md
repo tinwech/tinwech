@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ting-Wei
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinwech&label=Profile%20views&color=0e75b6&style=flat" alt="tinwech" /> </p>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tinwech.repoName) <img src="https://komarev.com/ghpvc/?username=tinwech" alt="tinwech" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tinwech/tinwech/output/github-contribution-grid-snake-dark.svg">
@@ -9,13 +9,13 @@
 </picture>
 
 
-- 🎓 Studying Computer Science at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw).
-- 🏢 Former Software Engineer Intern at [Amazon](https://www.aboutamazon.com) and [Synology](https://www.synology.com/en-global).
+- 🎓 Studying Computer Science at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw)
+- 🏢 Former Software Engineer Intern at [Amazon](https://www.aboutamazon.com) and [Synology](https://www.synology.com/en-global)
 - 🔭 I’m currently working on [SAUVC](https://sauvc.org/) 2024
-- 📚 Learning everything about backend development and system design.
-- 💬 Ask me about anything, I am happy to help.
+- 📚 Learning everything about backend development and system design
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me **tinwech91@gmail.com**
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👯 I’m looking forward to collaborate on open source projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
