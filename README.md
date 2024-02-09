@@ -13,8 +13,8 @@
 - 🏢 Former Software Engineer Intern at [Amazon](https://www.aboutamazon.com) and [Synology](https://www.synology.com/en-global)
 - 🔭 I’m currently working on [SAUVC](https://sauvc.org/) 2024
 - 📚 Learning everything about backend development and system design
-- 📫 How to reach me **tinwech91@gmail.com**
-- 👯 I’m looking forward to collaborate on open source projects
+- 📫 How to reach me **twc/contact@aleeas.com**
+- 👯 I’m looking forward to collaborating on open source projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
